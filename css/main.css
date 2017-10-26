@@ -1,0 +1,15 @@
+/* web fonts */
+@import url(https://fonts.googleapis.com/css?family=Lato:400);
+
+/* basic reset */
+
+body, h1, h2, ul, ol {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: 'lato', arial, sans-serif;
+  margin: 20px auto 0;
+  width: 80%
+}
